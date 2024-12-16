@@ -7,7 +7,7 @@ I'm a computer science senior studying at the California State University in Nor
 <br>My goal now is to become a more competent developer and learn new technologies.
 
 You can reach me at:
-- 🖥️ https://andrelee.me
+- 🖥️ https://andrelee.engineer
 - 📫 jose-leandre.castillo-lee.895@my.csun.edu
 
 
